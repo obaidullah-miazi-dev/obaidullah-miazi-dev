@@ -48,7 +48,7 @@ height="45" width="45"/>, I'm Obaidullah Miazi</h1>
 
 I am a dedicated **Full Stack Developer** focused on building *fast, scalable, and user-friendly web applications.* With a strong passion for *clean architecture, modern development practices, and responsive UI/UX,* I enjoy transforming complex requirements into smooth, efficient, and production-ready solutions.
 
-✨ **Mission:** To grow as a MERN Stack Full-Stack Developer by building scalable, efficient, and user-focused web applications — while continuously improving my problem-solving, backend architecture, and modern frontend development skills.
+✨ **Mission:** To grow as a MERN Stack Full-Stack Developer by building scalable, efficient, and user-focused web applications, while continuously improving my problem-solving, backend architecture, and modern frontend development skills.
 
 🤝 **Let's Connect:** I am always open to collaborating on exciting MERN projects, sharing ideas, or discussing new opportunities. Connect with me on [LinkedIn](https://www.linkedin.com/in/obaidullah-miazi/)!
 .
