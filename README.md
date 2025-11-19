@@ -123,6 +123,9 @@ I am a dedicated **Full Stack Developer** focused on building *fast, scalable, a
   <a href="https://github.com/obaidullah-miazi-dev/Helping-Hands-Website">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=obaidullah-miazi-dev&repo=Helping-Hands-Website&theme=tokyonight" />
   </a>
+  <a href="https://github.com/obaidullah-miazi-dev/Smart-Deals-Client">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=obaidullah-miazi-dev&repo=Smart-Deals-Client&theme=tokyonight" />
+  </a>
   <a href="https://github.com/obaidullah-miazi-dev/PixelHood-GameZone">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=obaidullah-miazi-dev&repo=PixelHood-GameZone&theme=tokyonight" />
   </a>
