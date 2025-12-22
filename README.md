@@ -120,7 +120,10 @@ I am a dedicated **Full Stack Developer** focused on building *fast, scalable, a
 ## 🚀 Pinned Projects
 
 <p align="center">
- 
+
+ <a href="https://github.com/obaidullah-miazi-dev/ClubNest-Web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=obaidullah-miazi-dev&repo=ClubNest-Web&theme=tokyonight" />
+  </a>
 
 
   <a href="https://github.com/obaidullah-miazi-dev/Helping-Hands-Website">
