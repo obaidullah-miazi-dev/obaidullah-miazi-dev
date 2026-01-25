@@ -98,7 +98,7 @@ I am a dedicated **Full Stack Developer** focused on building *fast, scalable, a
 
   <br/>
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obaidullah-miazi-dev&theme=tokyonight&hide_border=true&background=000000&stroke=FF69B4" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obaidullah-miazi-dev&theme=tokyonight" width="48%"/>
 <br/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidullah-miazi-dev&layout=compact&theme=tokyonight" />
 </p>
