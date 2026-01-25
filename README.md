@@ -93,10 +93,15 @@ I am a dedicated **Full Stack Developer** focused on building *fast, scalable, a
 
 <p align="center">
   <!-- Main Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=obaidullah-miazi-dev&show_icons=true&theme=radical&hide_border=true&bg_color=000000&include_all_commits=true" width="48%"/>
-  
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=obaidullah-miazi-dev&show_icons=true&theme=radical&hide_border=true&bg_color=000000&include_all_commits=true" width="48%"/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=obaidullah-miazi-dev&show_icons=true&theme=tokyonight" />
+
+  <br/>
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=obaidullah-miazi-dev&theme=radical&hide_border=true&background=000000&stroke=FF69B4" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=obaidullah-miazi-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<br/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obaidullah-miazi-dev&layout=compact&theme=tokyonight" />
 </p>
 ---
 
